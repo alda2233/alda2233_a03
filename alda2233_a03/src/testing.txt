@@ -1,0 +1,96 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Mohamed Aldakhil
+ID:      169072233
+Email:   alda2233@mylaurier.ca
+Version: 2023-09-10
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+squarefeet: 100000.0
+2.295684113865932
+
+
+squarefeet: 0
+0.0
+
+squarefeet: 2345.87
+0.05385376492194674
+
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Enter the width of the lawn (in meters): 20.0
+Enter the length of the lawn (in meters): 50.0
+Enter the mowing speed (square meters cut per minute): 4.0
+250.0
+
+
+Enter the width of the lawn (in meters): 45
+Enter the length of the lawn (in meters): 78.9
+Enter the mowing speed (square meters cut per minute): 4
+887.6
+
+Enter the width of the lawn (in meters): 9876.7
+Enter the length of the lawn (in meters): 45
+Enter the mowing speed (square meters cut per minute): 9.6
+46297.0
+
+
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Enter a date number (YYYYMMDD): 19621025
+1962, 10, 25
+
+Enter a date number (YYYYMMDD): 00000000
+0, 0, 0
+
+Enter a date number (YYYYMMDD): 20231006
+2023, 10, 6
+
+
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Enter the numerator of the first fraction: 1
+Enter the denominator of the first fraction: 2
+Enter the numerator of the second fraction: 3
+Enter the denominator of the second fraction: 4
+3 8 0.375
+
+Enter the numerator of the first fraction: 5
+Enter the denominator of the first fraction: 6
+Enter the numerator of the second fraction: 7
+Enter the denominator of the second fraction: 8
+35 48 0.7291666666666666
+
+
+Enter the numerator of the first fraction: 65
+Enter the denominator of the first fraction: 345
+Enter the numerator of the second fraction: 3
+Enter the denominator of the second fraction: 4
+195 1380 0.14130434782608695
+
+
+
+
+
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Enter the time the object has fallen (in seconds): 15
+1102.5
+
+Enter the time the object has fallen (in seconds): 0
+0.0
+
+Enter the time the object has fallen (in seconds): 60
+17640.0
+
+-------------------------------------------------------
